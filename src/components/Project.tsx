@@ -82,6 +82,29 @@ function Project() {
                         </p>
                     </div>
                 </div>
+                <div className="project">
+  <a target="_blank" rel="noreferrer">
+    <img 
+      src={mockup03}
+      className="zoom"
+      alt="Application mobile PWA santé en Aurelia"
+      width="100%"
+    />
+  </a>
+  
+  <a target="_blank" rel="noreferrer">
+    <h2>Application Mobile PWA Santé – Aurelia</h2>
+  </a>
+  
+  <div className="project-description">
+    <p>
+      Développement d’une application mobile <strong>PWA</strong> en <strong>Aurelia</strong>, dédiée au secteur de la <strong>santé</strong>.
+    </p>
+    <p>
+      L’application offre une expérience <strong>fluide</strong>, <strong>sécurisée</strong> et <strong>accessible</strong> sur tous types d’appareils.
+    </p>
+  </div>
+</div>
             </div>
         </div>
     );
