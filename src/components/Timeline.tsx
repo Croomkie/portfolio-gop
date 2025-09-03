@@ -35,7 +35,7 @@ function Timeline() {
                         <h3 className="vertical-timeline-element-title">Bachelor - Ingénierie du Web (alternance)</h3>
                         {/*<h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>*/}
                         <p>
-                            Frontend Development, Backend Development, User Experience, Team Leading
+                            Frontend Development, Backend Development
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
